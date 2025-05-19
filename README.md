@@ -48,7 +48,7 @@ npm run dev
 - For queries, suggestions, or contributions:
   - Parthiv Shingala
   - MSc-IT | Charotar University of Science and Technology
-  - 📧 parthivshingala@.com
+  - 📧 parthivshingala@gmail.com
   - 💼 [LinkedIn](https://www.linkedin.com/in/parthiv-shingala-933224322/)  
  
 ## 📝 License
