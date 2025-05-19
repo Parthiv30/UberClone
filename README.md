@@ -1,4 +1,4 @@
-# 🚖 Uber Frontend Clone
+# 🚖 Uber Clone
 
 This is a **frontend-only clone of the Uber web application**, built using **React** and **Tailwind CSS**. It replicates the core design and layout of Uber’s interface to sharpen frontend development skills and understand responsive UI practices.
 
@@ -49,7 +49,7 @@ npm run dev
   - Parthiv Shingala
   - MSc-IT | Charotar University of Science and Technology
   - 📧 parthivshingala@.com
-  - #### 🔗 [LinkedIn](https://www.linkedin.com/in/parthiv-shingala-933224322/)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/parthiv-shingala-933224322/)  
  
 ## 📝 License
 - This project is for educational and academic purposes only.
